@@ -1,44 +1,32 @@
-  {
-    "Trait": "Ovary activation",
-    "QTL": "OvA1",
-    "Linkage group": "15",
-    "Closest marker": "Am253",
-    "P-value": "0.0049",
-    "QTL effect": "0.92",
-    "Effect size (%)": "8",
-    "Reference": "Oxley PR, 2008",
-    "Pmid": "18562647"
-  },
-  {
-    "Trait": "Ovary activation",
-    "QTL": "OvA2",
-    "Linkage group": "7",
-    "Closest marker": "SV272",
-    "P-value": "0.017",
-    "QTL effect": "−0.80",
-    "Effect size (%)": "6",
-    "Reference": "Oxley PR, 2008",
-    "Pmid": "18562647"
-  },
-  {
-    "Trait": "Ovary activation",
-    "QTL": "OvA3",
-    "Linkage group": "1",
-    "Closest marker": "SV084",
-    "P-value": "0.024",
-    "QTL effect": "−0.84",
-    "Effect size (%)": "6",
-    "Reference": "Oxley PR, 2008",
-    "Pmid": "18562647"
-  },
-  {
-    "Trait": "Ovary activation",
-    "QTL": "OvA4",
-    "Linkage group": "13",
-    "Closest marker": "Am074",
-    "P-value": "0.035",
-    "QTL effect": "−1.24",
-    "Effect size (%)": "5",
-    "Reference": "Oxley PR, 2008",
-    "Pmid": "18562647"
-  }
+[
+    {
+        "beeQTL": {
+            "trait": "bootstrap-table",
+            "count": {
+                "stargazers": 768,
+                "forks": 183
+            },
+            "description": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3)"
+        }
+    },
+    {
+        "beeQTL": {
+            "trait": "multiple-select",
+            "count": {
+                "stargazers": 365,
+                "forks": 166
+            },
+            "description": "A jQuery plugin to select multiple elements with checkboxes :)"
+        }
+    },
+    {
+        "beeQTL": {
+            "trait": "bootstrap-show-password",
+            "count": {
+                "stargazers": 37,
+                "forks": 13
+            },
+            "description": "Show/hide password plugin for twitter bootstrap."
+        }
+    }
+]

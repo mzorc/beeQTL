@@ -1,20 +1,30 @@
 [
     {
         "beeQTL": {
-            "trait": "bootstrap-table",          
-            "QTL": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3)"
+            "trait": "Ovary activation",          
+            "QTL": "OvA1",
+			"Reference": Oxley PR, 2008
         }
     },
     {
         "beeQTL": {
-            "trait": "multiple-select",        
-            "QTL": "A jQuery plugin to select multiple elements with checkboxes :)"
+            "trait": "Ovary activation",        
+            "QTL": "OvA2",
+			"Reference": Oxley PR, 2008
         }
     },
     {
         "beeQTL": {
-            "trait": "bootstrap-show-password",           
-            "QTL": "Show/hide password plugin for twitter bootstrap."
+            "trait": "Ovary activation",           
+            "QTL": "OvA3",
+			"Reference": Oxley PR, 2008
+        }
+    },
+    {
+        "beeQTL": {
+            "trait": "Ovary activation",           
+            "QTL": "OvA4",
+			"Reference": Oxley PR, 2008
         }
     }
 ]

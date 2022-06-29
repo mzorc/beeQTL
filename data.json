@@ -1,28 +1,28 @@
 [
     {
         "beeQTL": {
-            "trait": "Ovary activation",          
+            "Trait": "Ovary activation",          
             "QTL": "OvA1",
 			"Reference": "Oxley PR, 2008"
         }
     },
     {
         "beeQTL": {
-            "trait": "Ovary activation",        
+            "Trait": "Ovary activation",        
             "QTL": "OvA2",
 			"Reference": "Oxley PR, 2008"
         }
     },
     {
         "beeQTL": {
-            "trait": "Ovary activation",           
+            "Trait": "Ovary activation",           
             "QTL": "OvA3",
 			"Reference": "Oxley PR, 2008"
         }
     },
     {
         "beeQTL": {
-            "trait": "Ovary activation",           
+            "Trait": "Ovary activation",           
             "QTL": "OvA4",
 			"Reference": "Oxley PR, 2008"
         }

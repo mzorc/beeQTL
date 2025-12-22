@@ -1,0 +1,79 @@
+Trait	QTL	LG	Scaffold	Start	End	Marker	Level	Reference	Pmid	Strategy	Marker_type	Phenotype description	Population	Comment	Candidate genes	Alternative_notation
+Ovary activation	OvA1	15	NC_037652.1	6339308	6402471	Am253	Individual	Oxley PR et al. 2008	18562647	Linkage mapping	STR	Individual worker ovaries were scored on an 5 point scale that reflects stages of ovary activation (14 days).	Anarchistic colony identified from the field (Coffs Harbour, New South Wales) in 1995 (Montague and Oldroyd 1998)	Am253 marker primers not found	DopR2	
+Ovary activation	OvA2	7	NC_037644.1	12843062	12843214	SV272	Individual	Oxley PR et al. 2008	18562647	Linkage mapping	STR	Individual worker ovaries were scored on an 5 point scale that reflects stages of ovary activation (14 days).	Anarchistic colony identified from the field (Coffs Harbour, New South Wales) in 1995 (Montague and Oldroyd 1998)			
+Ovary activation	OvA3	7	NC_037644.1	11720631	11720758	SV084	Individual	Oxley PR et al. 2008	18562647	Linkage mapping	STR	Individual worker ovaries were scored on an 5 point scale that reflects stages of ovary activation (14 days).	Anarchistic colony identified from the field (Coffs Harbour, New South Wales) in 1995 (Montague and Oldroyd 1998)			
+Ovary activation	OvA4	13	NC_037650.1	5875964	5876595	Am074	Individual	Oxley PR et al. 2008	18562647	Linkage mapping	STR	Individual worker ovaries were scored on an 5 point scale that reflects stages of ovary activation (14 days).	Anarchistic colony identified from the field (Coffs Harbour, New South Wales) in 1995 (Montague and Oldroyd 1998)	Am074 marker primers not found		
+Gentleness		4		3378436	3378436			Guichard M et al. 2021	33970494							
+Gentleness		3	NC_037640.1	1483128	1483128			Guichard M et al. 2021	33970494							
+Calmness		8		750884	750884			Guichard M et al. 2021	33970494							
+Calmness		6	NC_037643.1	1584897	1584897			Guichard M et al. 2021	33970494							
+Calmness		12		6041432	6041432			Guichard M et al. 2021	33970494							
+Foraging behaviour	Pln1															
+Foraging behaviour	Pln2															
+Foraging behaviour	Pln3															
+Foraging behaviour	Amfor															
+Defense response	sting1	7	NC_037644.1	1871233	1871476	stsN4-.245	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD		European and Africanized	Marker sig. for flying (P < 0.05) and stinging (P < 0.01)		stsN4-.245F; stsN4-.245R
+Defense response	sting1	7	NC_037644.1	3084916	3084936	sts25-.44	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		sts25-44; 25.44F; 25.44R
+Defense response	sting1	7	NC_037644.1	2818524	2818555	a12.086	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting1	7	NC_037644.1	2664780	2664885	a43.145	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting1	7	NC_037644.1	2593835	2594404	a17.080	Individual	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Confirming marker: Individual guarding		a17-.080; A17.080
+Defense response	sting1					a17.08-1.5	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting1	7	NC_037644.1	2385214	2385739	GRP7.17	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		GRP7.17-3
+Defense response	sting1	7	NC_037644.1	1923679	1923758	a51.105	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting1	7	NC_037644.1	1917703	1918160	N4p88k1	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting1					N4-.27	Individual	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Confirming marker: Individual stinging (2 studies) and individual guarding		
+Defense response	sting1	1	NC_037638.1	23068215	23068428	450-.3	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI; (! different chromosome)		
+Defense response	sting1	7	NC_037644.1	1539514	1539669	a31.200	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting2	3	NC_037640.1	2747503	2747638	a45.170	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting2	3	NC_037640.1	3097531	3097921	O1-.43	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		O1-.43F; O1-.43R
+Defense response	sting2	1	NC_037638.1	3687381	3687588	a17.242	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI; (! different chromosome)		
+Defense response	sting2	3	NC_037640.1	3714668	3714690	a11.310	Individual	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Confirming marker: Individual guarding		
+Defense response	sting3	2	NC_037639.1	4709843	4709991	a44.180	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting3					a74.320	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting3	6	NC_037643.1	624146	624196	a45.085	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI; (! different chromosome)		
+Defense response	sting3	2	NC_037639.1	4458252	4458940	a64.084	Individual	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Confirming marker: Individual guarding		a64-.084
+Defense response	sting3					H19-.6	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Defense response	sting3					a22.16	Colony	Hunt et al. 1998; Hunt et al. 2007		linkage mapping	RAPD			Marker within 97% CI		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16219824	16219944	1_17408194		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16296442	16296559	1_17484642		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16388861	16388973	1_17577515		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16719553	16719673	1_17928878		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16840871	16840977	1_18094359		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	16962104	16962224	1_18214692		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17262699	17262579	1_18318085		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17083346	17083226	1_18496051		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17335598	17335715	1_18596602		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17466985	17467105	1_18786427		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17679394	17679514	1_19029230		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17837448	17837568	1_19187323		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH1	1	NC_037638.1	17920459	17920576	1_19282063		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10073102	10073222	9_8718994		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10154386	10154506	9_8801678		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10294624	10294744	9_8940824		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10461726	10461846	9_9106400		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10524603	10524723	9_9224292		Tsuruda et al. 2012	23133626					LOD-1.5 support interval; marker closest to peak		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10629363	10629483	9_9327425		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10758800	10758920	9_9455543		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	10872507	10872627	9_9569008		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa sensitive hygiene	VSH2	9	NC_037646.1	11076977	11077097	9_9774498		Tsuruda et al. 2012	23133626					LOD-1.5 support interval		
+Varroa Sensitive Hygiene	hygeine1	1	NC_037638.1	3043773	8745184			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG1:3039231-8453574		
+Varroa Sensitive Hygiene	hygeine2	1	NC_037638.1	9833841	18792052			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG1:9418717-16819942		
+Varroa Sensitive Hygiene	hygeine3	2	NC_037639.1	4414014	16074358			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG2:1-12503099		
+Varroa Sensitive Hygiene	hygeine4	6	NC_037643.1	12482984	17779332			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG6:11206828-17739083		
+Varroa Sensitive Hygiene	hygeine5	7	NC_037644.1	563759	982365			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG7:9515998-12848973		
+Varroa Sensitive Hygiene	hygeine6	12	NC_037649.1	5350	5836450			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG12:1-4003353		
+Varroa Sensitive Hygiene	hygeine7	13	NC_037650.1	7650766	10970793			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG13:5247545-10266737		
+Varroa Sensitive Hygiene	hygeine8	15	NC_037652.1	3260790	9310167			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG15:1-6643609		
+Varroa Sensitive Hygiene	hygeine9	16	NC_037653.1	974183	4154497			Spoetter et al. 2012						Amel3 mapping interval (Table 1 Spoetter et al. 2012) LG16:3196393-6242592		
+Hygienic behaviour	Hyg1	2	NC_037639.1	15069205	15069519	K0263		Oxley et al. 2010						Nearest marker		
+Hygienic behaviour	Hyg2	5	NC_037642.1	10085136	10085228	A058		Oxley et al. 2010						Nearest marker		
+Hygienic behaviour	Hyg3	16	NC_037653.1	995283	995459	K1601		Oxley et al. 2010						Nearest marker		
+Grooming	grooming1	5	NC_037642.1	1633108	1633228	5_1050004		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	1834572	1834692	5_1256625		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	1897663	1897783	5_1320383		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	2070928	2071048	5_1544300		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	2170849	2170969	5_1644271		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval; marker closest to peak		
+Grooming	grooming1	5	NC_037642.1	2388477	2388597	5_1868365		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	844149	844029	5_253573		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	1063073	1063193	5_413557		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
+Grooming	grooming1	5	NC_037642.1	702236	702356	5_8439		Arechavaleta-Velasco et al. 2012						LOD-1.5 support interval		
